@@ -1,0 +1,6 @@
+valid_email = "s1nod@yandex.ru"
+valid_password = "123456"
+invalid_email = "s2nod@yandex.ri"
+invalid_password = "654321"
+correct_filter = "my_pets"
+incorrect_filter = "dog"
